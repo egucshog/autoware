@@ -112,4 +112,4 @@ release:
         type: container
         artifact: main
 
- type: standard1/amd64/large
+
